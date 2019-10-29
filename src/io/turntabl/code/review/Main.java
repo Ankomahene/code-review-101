@@ -18,7 +18,7 @@ public class Main {
             users.add(oldUser);
         }
 
-        addUser("Ankomahene", users);
+        addUser("Yaa", users);
 
         System.out.println("\n");
         removeLastUser(users);
